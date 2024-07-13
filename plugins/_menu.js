@@ -150,10 +150,7 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
   ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
-  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing QUEEN_ANITA-V2
-│└────────────┈ ⳹        
-│*©2024-2099 David Cyril*
-└─────────────────┈ ⳹
+  ${menuThemeFooter}\n
   \n${readmore}\n`;
 
       for (const category in categorizedCommands) {
